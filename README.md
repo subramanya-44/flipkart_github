@@ -9,7 +9,8 @@ This is a student project built using Flipkart product listings data. The data w
 ![Dashboard Screenshot](src.png)
 
 ---
-
+![Google Looker](https://lookerstudio.google.com/reporting/994cd812-76ca-4005-9c19-48487fb35eba)
+![Google Big Query}(https://console.cloud.google.com/bigquery?sq=846141287765:a1a4f44a204040fab320a2e5204bb073)
 ## 🎯 Project Goals
 
 - Clean and normalize raw e-commerce product data
